@@ -1,6 +1,6 @@
 Structural Verilog Top Module
 
-This repository contains a simple structural Verilog exercise where a top-level module (`Top_Module`) is created by instantiating three submodules:
+This repository contains a simple structural Verilog exercise where a top-level module (Top_Module) is created by instantiating three submodules:
 1. Register File  
 2. Encoder  
 3. Serializer  
